@@ -34,16 +34,3 @@ A dedicated space for buying and selling agricultural products, tools, and servi
 * **Data Sources:** Real-time API integration for News, Weather, and Market data.
 
 ---
-
-## 🚀 Installation & Local Development
-
-To run GramAI on your local machine, follow these steps:
-
-1. **Clone the repository:**
-   git clone [https://github.com/Manish9211Ram/GramAI.git](https://github.com/Manish9211Ram/GramAI.git)
-2. **Navigate to the project folder:**
-  cd GramAI
-3.**Install Dependencies:**
-  npm install
-4.Start the Development Server:
-  npm run dev
