@@ -1,16 +1,49 @@
-# React + Vite
+# GramAI 🌾 | Rural Services on Demand
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**GramAI** is a comprehensive digital ecosystem designed to empower rural communities and farmers. By bringing essential services like government schemes, real-time market data, and agricultural news onto a single platform, we aim to bridge the digital divide in rural areas.
 
-Currently, two official plugins are available:
+🚀 **Live Demo:** [https://gram-ni7g.onrender.com/](https://gram-ni7g.onrender.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Core Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 📰 Latest Agri-News
+Stay updated with the latest happenings in the agricultural sector, including technology trends and policy changes.
 
-## Expanding the ESLint configuration
+### 📜 Government Schemes
+A curated section to help farmers discover and understand various government subsidies and welfare programs (Sarkari Yojana) available to them.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🌦️ Real-time Weather Intelligence
+Hyper-local weather updates to help users plan their daily agricultural activities and protect their crops.
+
+### 📊 Market Price (Mandi Rates)
+Live tracking of commodity prices across various markets to ensure farmers get the best value for their produce.
+
+### 🛒 Rural Marketplace
+A dedicated space for buying and selling agricultural products, tools, and services directly within the community.
+
+---
+
+## 🛠️ Technical Stack
+
+* **Frontend:** React.js / Vite (Modern, fast, and responsive UI)
+* **Styling:** Tailwind CSS (Clean and professional design)
+* **Backend:** Node.js / Express (Scalable API management)
+* **Deployment:** Hosted on Render
+* **Data Sources:** Real-time API integration for News, Weather, and Market data.
+
+---
+
+## 🚀 Installation & Local Development
+
+To run GramAI on your local machine, follow these steps:
+
+1. **Clone the repository:**
+   git clone [https://github.com/Manish9211Ram/GramAI.git](https://github.com/Manish9211Ram/GramAI.git)
+2. **Navigate to the project folder:**
+  cd GramAI
+3.**Install Dependencies:**
+  npm install
+4.Start the Development Server:
+  npm run dev
